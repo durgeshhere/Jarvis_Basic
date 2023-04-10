@@ -1,0 +1,7 @@
+openai
+wave
+numpy
+whisper
+pyttsx3
+wikipedia
+pywhatkit
